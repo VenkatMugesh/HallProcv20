@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Hall Proc v2.0</string>
+    <string name="no_value">No Exam</string>
+
+    <string-array name="odd_second">
+        <item>No Exam</item>
+        <item>CS8351-Digital Principles and system Design</item>
+        <item>CS8391-Data Structures</item>
+        <item>CS8392-Object Oriented Programming</item>
+        <item>EC8395-Communication Engineering</item>
+        <item>MA8351-Discrete Mathematics</item>
+    </string-array>
+
+    <string-array name="even_second">
+        <item>No Exam</item>
+        <item>CS6302-Database Management Systems</item>
+        <item>CS8451-Design and Analysis of Algorithms</item>
+        <item>CS8491-Computer Architecture</item>
+        <item>CS8493-Operating Systems</item>
+        <item>CS8494-Software Engineering</item>
+        <item>MA8402-Probability and Queueing Theory</item>
+    </string-array>
+
+    <string-array name="odd_third">
+        <item>No Exam</item>
+        <item>MA8402-Probability and Queueing Theory</item>
+        <item>CS6502-Object Oriented Analysis and Design</item>
+        <item>CS6503-Theory of Computation</item>
+        <item>CS6504-Computer Graphics</item>
+        <item>MA6566-Discrete Mathematics</item>
+    </string-array>
+
+    <string-array name="even_third">
+        <item>No Exam</item>
+        <item>Elective</item>
+        <item>CS6601-Distributed Systems</item>
+        <item>CS6659-Artificial Intelligence</item>
+        <item>CS6660-Compiler Design</item>
+        <item>IT6502-Digital Signal Processing</item>
+        <item>IT6601-Mobile Computing</item>
+    </string-array>
+
+    <string-array name="odd_final">
+        <item>No Exam</item>
+        <item>Elective-I</item>
+        <item>Elective-II</item>
+        <item>CS6701-Cryptography and Network Security</item>
+        <item>CS6702-Graph Theory and Applications</item>
+        <item>CS6703-Grid and Cloud Computing</item>
+        <item>CS6704-Resource Management Techniques</item>
+    </string-array>
+
+    <string-array name="even_final">
+        <item>No Exam</item>
+        <item>CS6008-Human Computer Interaction</item>
+        <item>CS6801-Multicore Architecture and Programming</item>
+        <item>GE6075-Professional Ethics in Engineering</item>
+        <item>MG6088-Software Project Management</item>
+    </string-array>
+</resources>

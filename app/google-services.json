@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458221753412",
+    "firebase_url": "https://hallprocv20.firebaseio.com",
+    "project_id": "hallprocv20",
+    "storage_bucket": "hallprocv20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458221753412:android:b2594f749736f537",
+        "android_client_info": {
+          "package_name": "com.example.venkatmugesh.hallprocv20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458221753412-old9bj4l3pn76melssdlsf9pidfeb9n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkatmugesh.hallprocv20",
+            "certificate_hash": "3ddf3d0c306811f1b57a5f0033eced4c4691d713"
+          }
+        },
+        {
+          "client_id": "458221753412-ssus24lu7ddhlu6k3v3n48tsrdpmork5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDR4cRMpau9go8T6OrYN2XPHynxQRNAd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458221753412-ssus24lu7ddhlu6k3v3n48tsrdpmork5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
